@@ -8,6 +8,9 @@
 !README.md
 !bigrun.sh
 !shortrun.sh
+!论文翻译.md
+!数值方法公式代码解读_Part1.md
+!数值方法公式代码解读_Part2.md
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
