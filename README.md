@@ -1,5 +1,24 @@
 # `fouvol` - A Fourier proxy for a weakly singular Volterra kernel
 
+---
+
+## 📄 代码解读文档 / Documentation Index
+
+| 文件 | 内容 |
+|------|------|
+| **[总结报告.md](总结报告.md)** | **📋 综合总结报告**（摘要概括 / 核心公式+代码解析 / 创新点）|
+| **[论文全流程总结报告.md](论文全流程总结报告.md)** | **🧭 全流程总结报告**（问题定义 / 创新点 / 关键公式推导 / 流程总表）|
+| **[第3_4_5节公式逐一解读.md](第3_4_5节公式逐一解读.md)** | **📐 第3、4、5节所有公式逐一推导**（含完整推导、符号解释、公式关系图）|
+| **[代码逐行解读.md](代码逐行解读.md)** | **全部源代码逐行注释与数学公式对照**（按主函数运行顺序，含行号，共1532行） |
+| [第2节公式解读.md](第2节公式解读.md) | 论文第2节所有数学公式的完整推导 |
+| [数值方法公式代码解读_Part1.md](数值方法公式代码解读_Part1.md) | 数值方法第一部分：乘积矩形/梯形规则 |
+| [数值方法公式代码解读_Part2.md](数值方法公式代码解读_Part2.md) | 数值方法第二部分：Fourier递归求解器 |
+| [论文翻译.md](论文翻译.md) | 论文中文翻译 |
+
+> **快速入口**：如果您只需要代码解读，请直接点击上方表格第一行的链接 **[代码逐行解读.md](代码逐行解读.md)**。
+
+---
+
 >Home:
 https://github.com/variationalform/fouvol
 
@@ -273,4 +292,3 @@ docker run -ti c8ff
 **_*TO DO:*_** update <https://hub.docker.com/repository/docker/variationalform/puretime> with the paper's DOI
 
 **_*TO DO:*_** make the tarfile available (figshare?)
-
